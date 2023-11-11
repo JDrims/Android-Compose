@@ -24,3 +24,4 @@ composeDebugPreview = { module = "androidx.compose.ui:ui-tooling-preview", versi
 composeMaterial = { module = "androidx.compose.material:material", version.ref = "material" }
 composeMaterial3 = { module = "androidx.compose.material3:material3", version.ref = "material3" }
 accompanistSystemUiController = { module = "com.google.accompanist:accompanist-systemuicontroller", version.ref = "accompanist-systemuicontroller" }
+monitor = { group = "androidx.test", name = "monitor", version = "1.6.1" }

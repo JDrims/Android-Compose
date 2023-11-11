@@ -51,4 +51,5 @@ dependencies {
     implementation(libs.composeMaterial3)
 
     implementation(libs.accompanistSystemUiController)
+    implementation(libs.monitor)
 }
