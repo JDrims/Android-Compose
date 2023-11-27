@@ -1,7 +1,5 @@
 # Preview Dota 2
 
 Реализовано прилодение на Android
-* cоздан Apk файл
-* проверено на другом устройстве
 
 ![Alt text](image-1.png) ![Alt text](image-2.png)
